@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e543094c605a75df62af1b2898f605c7",
+    "revision": "b88be174cfffaa7616523072862336c9",
     "url": "/ShipsOfBattle/index.html"
   },
   {
-    "revision": "0bd92607153a84b0b02d",
-    "url": "/ShipsOfBattle/static/css/main.5c338a0b.chunk.css"
+    "revision": "69d9d5529812bc5c59bf",
+    "url": "/ShipsOfBattle/static/css/main.2a192df7.chunk.css"
   },
   {
     "revision": "f3431d87757095f40cb9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShipsOfBattle/static/js/2.98c69728.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bd92607153a84b0b02d",
+    "revision": "69d9d5529812bc5c59bf",
     "url": "/ShipsOfBattle/static/js/main.d0d14337.chunk.js"
   },
   {

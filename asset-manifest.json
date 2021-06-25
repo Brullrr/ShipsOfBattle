@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ShipsOfBattle/static/css/main.5c338a0b.chunk.css",
+    "main.css": "/ShipsOfBattle/static/css/main.2a192df7.chunk.css",
     "main.js": "/ShipsOfBattle/static/js/main.d0d14337.chunk.js",
     "main.js.map": "/ShipsOfBattle/static/js/main.d0d14337.chunk.js.map",
     "runtime-main.js": "/ShipsOfBattle/static/js/runtime-main.f2fc1498.js",
@@ -8,9 +8,9 @@
     "static/js/2.98c69728.chunk.js": "/ShipsOfBattle/static/js/2.98c69728.chunk.js",
     "static/js/2.98c69728.chunk.js.map": "/ShipsOfBattle/static/js/2.98c69728.chunk.js.map",
     "index.html": "/ShipsOfBattle/index.html",
-    "precache-manifest.b70d2eb97bb7d530b95469b6878f44c1.js": "/ShipsOfBattle/precache-manifest.b70d2eb97bb7d530b95469b6878f44c1.js",
+    "precache-manifest.89736bfdd49b73397c590f6db982ec74.js": "/ShipsOfBattle/precache-manifest.89736bfdd49b73397c590f6db982ec74.js",
     "service-worker.js": "/ShipsOfBattle/service-worker.js",
-    "static/css/main.5c338a0b.chunk.css.map": "/ShipsOfBattle/static/css/main.5c338a0b.chunk.css.map",
+    "static/css/main.2a192df7.chunk.css.map": "/ShipsOfBattle/static/css/main.2a192df7.chunk.css.map",
     "static/js/2.98c69728.chunk.js.LICENSE.txt": "/ShipsOfBattle/static/js/2.98c69728.chunk.js.LICENSE.txt",
     "static/media/AlliedPhase.png": "/ShipsOfBattle/static/media/AlliedPhase.103f56c8.png",
     "static/media/DruidWin.png": "/ShipsOfBattle/static/media/DruidWin.94394b24.png",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.f2fc1498.js",
     "static/js/2.98c69728.chunk.js",
-    "static/css/main.5c338a0b.chunk.css",
+    "static/css/main.2a192df7.chunk.css",
     "static/js/main.d0d14337.chunk.js"
   ]
 }
